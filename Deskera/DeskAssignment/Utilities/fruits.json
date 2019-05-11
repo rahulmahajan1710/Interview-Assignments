@@ -1,0 +1,19 @@
+{
+    "fruits": [
+        {
+            "name": "Grapes",
+            "description" : "Grapes green",
+            "category" : "Category A"
+        },
+        {
+            "name": "Apple",
+            "description" : "Apple red",
+            "category" : "Category B"
+        },
+        {
+            "name": "Mango",
+            "description" : "MAngo green",
+            "category" : "Category A"
+        }
+    ]
+}
